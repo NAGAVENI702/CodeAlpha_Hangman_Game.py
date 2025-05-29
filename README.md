@@ -35,5 +35,5 @@ Just run `hangman.py` using Python 3:
 
 ---
 
-Built with 💙 by Preethi
+Built with 💙 by nagaveni
 
